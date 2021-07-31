@@ -12,7 +12,7 @@
  **Laboratorio Nro:**     6
  
 ------------
-## **TEMA:**  TEOREMA DE SUPERPOSICIÓN
+## **TEMA:**  TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA.
 ------------
 
  1. **OBJETIVOS**
