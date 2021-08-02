@@ -290,6 +290,8 @@ https://www.youtube.com/watch?v=sYnuv_jwXrc&feature=youtu.be
 
  6. **CONCLUSIONES**
 
+   - Como conclusión luego de la práctica reliazada podemos concluir que, con el valor de la resistencia de carga RL se obtiene una mayor eficiencia de energía ya que se 
+   - Establcer la relacipon entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica.
 
 
  7. **BIBLIOGRAFÍA**
