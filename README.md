@@ -19,13 +19,14 @@
 
     #### Objetivo General:
 
-     - 
+     - Aplicar experimentalmente el Teorema de la Máxima Transferencia de Potencia. 
 
     #### Objetivos Específicos:
     
    - Analizar los cálculos analíticos y los resultados arrojados por el simulador para así conocer si existe algún margen de error en los cálculos realizados en la practica.             
    - Revisar la potencia del circuito con diferentes valores en la resistencia de la carga para poder así definir en que resistencia se da la máxima transferencia de potencia.
-   - 
+   - Determinar el valor de la resistencia de carga RL para que reciba la máxima potencia de la fuente de corriente continua.
+   - Establcer la relacipon entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica. 
     
  2. **MARCO TEÓRICO**
  
