@@ -19,14 +19,13 @@
 
     #### Objetivo General:
 
-     - Aplicar experimentalmente el Teorema de la Máxima Transferencia de Potencia. 
+    - Aplicar experimentalmente el Teorema de la Máxima Transferencia de Potencia. 
 
     #### Objetivos Específicos:
     
    - Analizar los cálculos analíticos y los resultados arrojados por el simulador para así conocer si existe algún margen de error en los cálculos realizados en la practica.             
    - Revisar la potencia del circuito con diferentes valores en la resistencia de la carga para poder así definir en que resistencia se da la máxima transferencia de potencia.
-   - Determinar el valor de la resistencia de carga RL para que reciba la máxima potencia de la fuente de corriente continua.
-   - Establcer la relacipon entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica. 
+   - Establecer la relacipon entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica para que reciba la máxima potencia de la fuente de corriente continua.
     
  2. **MARCO TEÓRICO**
  
@@ -290,9 +289,10 @@ https://www.youtube.com/watch?v=sYnuv_jwXrc&feature=youtu.be
 
  6. **CONCLUSIONES**
 
-   - Como conclusión luego de la práctica reliazada podemos concluir que, con el valor de la resistencia de carga RL se obtiene una mayor eficiencia de energía ya que se 
-   - Establcer la relacipon entre la resistencia de fuente y la resistencia de carga en el circuito de la práctica.
-
+   - Como conclusión luego de la práctica reliazada podemos concluir que, si el valor de la  resistencia de carga es igual o se aproxima a la resistencia de fuente se obtiene la  mayor transferencia de energía. La resistencia de la fuente, Rs es la resistencia equivalente o resistencia de Thevenin. 
+   - En base a lo experimental y calculado se logro demostrar que para valores muy aproximados a la resistencia interna (1.2 kohm) se puede llegar a obtener el valor de la potencia maxima asi mismo para los valores que van desde la cantidad mas baja hacia la cantidad mas aproximada a la resistencia interna la potencia tiende a crecer y si la resistencia es mayor a la interna la potencia empieza a descender.
+   - De acuerdo a los resultados obtenidos de manera analítica y practica se pudo evidenciar un porcentaje de error mínimo para ciertas resistencias, ya que es por la aproximación de los resultados calculados.
+  
 
  7. **BIBLIOGRAFÍA**
     
