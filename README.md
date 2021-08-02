@@ -57,7 +57,7 @@
 **3.2.1  Arme el circuito que se muestra en la figura 6.1.**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127788416-058a4174-f36d-4508-8676-5f4845e280b5.png)">
+  <img src="https://user-images.githubusercontent.com/84594486/127788416-058a4174-f36d-4508-8676-5f4845e280b5.png">
    </p>
 
 **3.2.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anotar los resultados medidos.**
@@ -101,7 +101,7 @@
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127788547-6c07039c-77b6-48d2-895f-3e92690b7d3d.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127788547-6c07039c-77b6-48d2-895f-3e92690b7d3d.png">
    </p>
 
 **Resistor de 1.8 kΩ**
@@ -127,9 +127,8 @@
 
 **Resistor de 4.7 kΩ** 
 
-
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127788557-d88e8fe2-8b6e-4b47-a3c9-83eba2bbbf37.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127788557-d88e8fe2-8b6e-4b47-a3c9-83eba2bbbf37.png">
    </p>
 
 
@@ -170,7 +169,7 @@
   <img src=" https://user-images.githubusercontent.com/84594486/127789011-23db45fd-8fcd-4d90-a18f-ac88b18347a8.png">
    </p>
 
-![image]()
+
 <p align="center">
   <img src=" https://user-images.githubusercontent.com/84594486/127789021-a99a52ac-578e-458e-94d7-3dbc906a3dae.png">
    </p>
@@ -194,7 +193,7 @@
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789266-4c62ad7d-e717-40b6-9dd6-4b332dfd763b.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789266-4c62ad7d-e717-40b6-9dd6-4b332dfd763b.png">
    </p>
 
 **3.4.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
@@ -209,7 +208,7 @@ En el circuito dado si se cumplio el Teorema de la maxima transferencia de poten
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789083-eaf3ab06-c7e1-4349-aa26-65820caf773d.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789083-eaf3ab06-c7e1-4349-aa26-65820caf773d.png">
    </p>
 
 
@@ -217,69 +216,69 @@ Para 220 Ω
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789125-211dfbac-4663-4506-b2aa-ab9dba134d24.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789125-211dfbac-4663-4506-b2aa-ab9dba134d24.png">
    </p>
 
 Para 470 Ω
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789144-efdcff6c-7a97-49ab-9700-30a52d7331c4.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789144-efdcff6c-7a97-49ab-9700-30a52d7331c4.png">
    </p>
 
 Para 680 Ω
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789162-6c368a0a-b5a2-484c-85be-035710bf667d.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789162-6c368a0a-b5a2-484c-85be-035710bf667d.png">
    </p>
 
 Para 820 Ω
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789176-e9769ae3-50d7-4cd3-bfb2-ccf003450746.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789176-e9769ae3-50d7-4cd3-bfb2-ccf003450746.png">
    </p>
 
 Para 1000 Ω
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789183-0b0ad99b-edb6-4ec6-beaf-5811d7658258.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789183-0b0ad99b-edb6-4ec6-beaf-5811d7658258.png">
    </p>
 
 Para 1500 Ω
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789190-822a6d34-13a4-490c-82c4-30c75315fbf6.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789190-822a6d34-13a4-490c-82c4-30c75315fbf6.png">
    </p>
 
 Para 1800 Ω
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789207-5c89bdab-84f1-4f97-aa9a-edfeb852ed12.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789207-5c89bdab-84f1-4f97-aa9a-edfeb852ed12.png">
    </p>
 
 Para 2200 Ω
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789212-59257d7a-ac9e-4bc5-97d3-35223dacca7c.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789212-59257d7a-ac9e-4bc5-97d3-35223dacca7c.png">
    </p>
 
 Para 3900 Ω
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789229-8fcd0123-d5d1-44ec-ad97-78dec584ede3.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789229-8fcd0123-d5d1-44ec-ad97-78dec584ede3.png">
    </p>
 
 
 Para 4700 Ω
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789236-bef19eb7-8f57-44dd-aea7-3fb2f9a3d2c3.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789236-bef19eb7-8f57-44dd-aea7-3fb2f9a3d2c3.png">
    </p>
 
 
