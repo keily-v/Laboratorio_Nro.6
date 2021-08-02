@@ -136,12 +136,12 @@
  
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127788917-48df12c3-230d-490b-ad6e-3855abd72a7a.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127788917-48df12c3-230d-490b-ad6e-3855abd72a7a.png">
    </p>
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127788933-21287213-9b54-4ae6-9392-577db90df3cb.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127788933-21287213-9b54-4ae6-9392-577db90df3cb.png">
    </p>
 
 
@@ -151,42 +151,42 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127788974-3e66af67-8a1b-40ca-ba81-a936e01a1560.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127788974-3e66af67-8a1b-40ca-ba81-a936e01a1560.png">
    </p>
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127788986-427f6de2-bf5e-40b8-9d7b-a9e6d29eb39f.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127788986-427f6de2-bf5e-40b8-9d7b-a9e6d29eb39f.png">
    </p>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127788995-f0a603d7-2b54-4075-a8fd-3833269386da.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127788995-f0a603d7-2b54-4075-a8fd-3833269386da.png">
    </p>
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789011-23db45fd-8fcd-4d90-a18f-ac88b18347a8.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789011-23db45fd-8fcd-4d90-a18f-ac88b18347a8.png">
    </p>
 
 
 <p align="center">
-  <img src=" https://user-images.githubusercontent.com/84594486/127789021-a99a52ac-578e-458e-94d7-3dbc906a3dae.png">
+  <img src="https://user-images.githubusercontent.com/84594486/127789021-a99a52ac-578e-458e-94d7-3dbc906a3dae.png">
    </p>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789031-e6fda54b-3cfa-49bd-ac46-bdad1cab4796.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789031-e6fda54b-3cfa-49bd-ac46-bdad1cab4796.png">
    </p>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789051-31aa20ac-02db-4603-8b13-5b21faeb32df.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789051-31aa20ac-02db-4603-8b13-5b21faeb32df.png">
    </p>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/127789060-11380972-12ea-4925-849c-0bbe718657fe.png ">
+  <img src="https://user-images.githubusercontent.com/84594486/127789060-11380972-12ea-4925-849c-0bbe718657fe.png">
    </p>
 
 **Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.**
